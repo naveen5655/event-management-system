@@ -6,7 +6,7 @@ Event management is the application of management to the creation and developmen
 - CSS
 - JS 
 ## IDE
--VS-Code
+- VS-Code
 ## Problem Statement/Opportunity
 Factors affecting event management includes financial factors, timing and location, publicity, risk in costs, environmental issues, short lead times, etc.Process of this management includes initiation, planning, implementation, event and finally closure.
 Event Management System being a web-based project, it is very simple, easy to use and flexible.
